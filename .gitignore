@@ -13,7 +13,3 @@ Thumbs.db
 *.log
 *.sql
 *.sqlite
-
-# ignore gitignore #
-####################
-.gitignore
