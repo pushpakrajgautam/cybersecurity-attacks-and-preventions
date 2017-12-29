@@ -16,4 +16,4 @@ Thumbs.db
 
 # ignore gitignore #
 ####################
-#.gitignore
+.gitignore
